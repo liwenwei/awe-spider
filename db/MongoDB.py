@@ -17,7 +17,7 @@ student1 = {
     'age': 20,
     'gender': 'male'
 }
-result = collection.insert(student)
+result = collection.insert(student1)
 print(result)
 
 # select
